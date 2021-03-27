@@ -27,7 +27,7 @@ SECRET_KEY = 'j4x7&zr#tjt7-$xd!y9l%(m+y0ul#5l6)f3$*v@j(1@-#j&6o$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['peaceful-caverns-87387.herokuapp.com']
+ALLOWED_HOSTS = ['infinite-fjord-47313.herokuapp.com']
 
 LOGIN_REDIRECT_URL = "dashboard"
 
